@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 Sou Gui. 
-SOu flamenguista.
+
+
+Sou flamenguista.
+
+
 Tenho 15 anos.
+
+
 Sou do PR.
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIzMXhqZWNlZWlhNGZkY2YyZW5uY2lhMDYwZnprcDBvaGNwemM0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zU2TwHZZu8GDeZjK7M/giphy.webp)
